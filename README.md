@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there space cowbowy !
+#### Welcome to my Github Profile my name is Krzysztof.
+------------------
+###### 🤔 My current projects 🤔:
+- Disord Fishing Bot (JavaScript)
+- PerParson a Open Source CRM system build with Laravel (PHP)
 
-<!--
-**kbuczynski-nashpl/kbuczynski-nashpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Contact:
+- [**Twitter**](https://twitter.com/NashPL)
+- [**GitHub**](https://github.com/kbuczynski-nashpl)
 
-Here are some ideas to get you started:
+###### ⚡ Fun fact: 
+I like different sort of things. Starting from Magic The Gathering ending with classic anime. 
+![honk](https://i.imgur.com/gX6sVbK.jpg=50x10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
