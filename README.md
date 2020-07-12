@@ -7,7 +7,7 @@
 
 ###### Contact:
 - [**Twitter**](https://twitter.com/NashPL)
-- [**GitHub**](https://github.com/kbuczynski-nashpl)
+- [**GitHub**](https://github.com/kbuczynski-nashpl) Duh!
 
 ###### ⚡ Fun fact: 
 I like different sort of things. Starting from Magic The Gathering ending with classic anime. 
