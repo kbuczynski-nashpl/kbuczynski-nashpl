@@ -10,6 +10,6 @@
 - [**GitHub**](https://github.com/kbuczynski-nashpl) Duh!
 
 ###### ⚡ Fun fact: 
-I like different sort of things. Starting from Magic The Gathering ending with classic anime. 
+I like different sort of things.
 ![honk](https://i.imgur.com/gX6sVbK.jpg=50x10)
 
