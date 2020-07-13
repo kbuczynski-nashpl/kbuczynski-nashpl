@@ -2,7 +2,7 @@
 #### Welcome to my Github Profile my name is Krzysztof.
 ------------------
 ###### 🤔 My current projects 🤔:
-- Disord Fishing Bot (JavaScript)
+- Discord Fishing Bot (JavaScript)
 - PerParson a Open Source CRM system build with Laravel (PHP)
 
 ###### Contact:
