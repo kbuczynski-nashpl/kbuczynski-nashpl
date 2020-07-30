@@ -2,8 +2,9 @@
 #### Welcome to my Github Profile my name is Krzysztof.
 ------------------
 ###### 🤔 My current projects 🤔:
-- Discord Fishing Bot (JavaScript)
+- Angular Training Course Tasks
 - PerParson a Open Source CRM system build with Laravel (PHP)
+- Personal Blog (Laravel + Angular) -> Near future idea
 
 ###### Contact:
 - [**Personal Page**](https://kbucz.com)
@@ -12,5 +13,5 @@
 
 ###### ⚡ Fun fact: 
 I like different sort of things.
-![honk](https://i.imgur.com/gX6sVbK.jpg=50x10)
+![honk](https://i.imgur.com/gX6sVbK.jpg=25x5)
 
