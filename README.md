@@ -2,9 +2,8 @@
 #### Welcome to my Github Profile my name is Krzysztof.
 ------------------
 ###### 🤔 My current projects 🤔:
-- Angular Training Course Tasks
 - PerParson a Open Source CRM system build with Laravel (PHP)
-- Personal Blog (Laravel + Angular) -> Near future idea
+- Personal Blog (Laravel + Angular) -> Future idea
 
 ###### Contact:
 - [**Personal Page**](https://kbucz.com)
