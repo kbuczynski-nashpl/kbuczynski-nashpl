@@ -2,8 +2,8 @@
 #### Welcome to my Github Profile my name is Krzysztof.
 ------------------
 ###### 🤔 My current projects 🤔:
-- PerParson a Open Source CRM system build with Laravel (PHP)
-- Personal Blog (Laravel + Angular) -> Future idea
+- PerParson a Open Source CRM system build with Laravel (PHP) [API]
+- Personal Blog (Laravel)
 
 ###### Contact:
 - [**Personal Page**](https://kbucz.com)
