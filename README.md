@@ -5,6 +5,9 @@
 - PerParson a Open Source CRM system build with Laravel (PHP) [API]
 - Personal Blog (Laravel)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kbuczynski-nashpl&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+------------------
+
 ###### Contact:
 - [**Personal Page**](https://kbucz.com)
 - [**Twitter**](https://twitter.com/NashPL)
