@@ -9,11 +9,10 @@
 ------------------
 
 ###### Contact:
-- [**Personal Page**](https://kbucz.com)
 - [**Twitter**](https://twitter.com/NashPL)
 - [**GitHub**](https://github.com/kbuczynski-nashpl) Duh!
 
 ###### ⚡ Fun fact: 
 I like different sort of things.
-![honk](https://i.imgur.com/gX6sVbK.jpg=25x5)
+![honk](https://i.imgur.com/gX6sVbK.jpg | width=100))
 
