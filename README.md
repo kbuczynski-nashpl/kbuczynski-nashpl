@@ -14,5 +14,4 @@
 
 ###### ⚡ Fun fact: 
 I like different sort of things.
-![](https://i.imgur.com/gX6sVbK.jpg)
-
+<img src="https://i.imgur.com/gX6sVbK.jpg" width="100" height="100">
