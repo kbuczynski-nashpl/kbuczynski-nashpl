@@ -66,7 +66,7 @@ PHP Developer, Simple Person, Deep Thinker, Typical Nerd, Video Games Lover
   <table border="0" align="center">
     <tr border="0">
       <td width="100%" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kbuczynski-nashpl&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&hide=java"/>
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kbuczynski-nashpl&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7&hide=java,html&include_forks=true"/>
       </td>
     </tr>
 </table>
