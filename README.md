@@ -2,17 +2,15 @@
 #### Welcome to my Github Profile my name is Krzysztof.
 ------------------
 ###### 🤔 My current projects 🤔:
-- PerParson a Open Source CRM system build with Laravel (PHP) [API]
 - Personal Blog (Laravel)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kbuczynski-nashpl&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ------------------
 
-###### Contact:
+###### ⚡ - Contact:
 - [**Twitter**](https://twitter.com/NashPL)
-- [**GitHub**](https://github.com/kbuczynski-nashpl) Duh!
+- [**GitHub**](https://github.com/kbuczynski-nashpl)
 
-###### ⚡ Fun fact: 
-I like different sort of things.
+######
 <br>
 <img src="https://i.imgur.com/gX6sVbK.jpg" width="auto" height="100">
