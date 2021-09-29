@@ -10,7 +10,9 @@
 <a href="mailto:nash25pl@gmail.com" >
   <img align="center" alt="Krzysztof Buczynski | Gmail" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
+<a href="https://discord.com/users/241311218399182849">  
   <img align="center" alt="Krzysztof Buczynski | Discord" width="20px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
+</a>
 &nbsp;&nbsp;
 </p>
 
